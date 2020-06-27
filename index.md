@@ -12,3 +12,5 @@ Kummer ist ein Charakter in Alles steht Kopf. Sie ist einer der Emotionen von Ri
 * Sie ist negativ
 
 > Weinen hilft mir das Tempo zu drosseln und mich in die Probleme des Lebens hinein zu steigern. 
+
+<img src="https://vignette.wikia.nocookie.net/disney/images/d/dc/Kummer.png/revision/latest?cb=20150920164853&path-prefix=de"/>
