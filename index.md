@@ -10,3 +10,5 @@ Kummer ist ein Charakter in Alles steht Kopf. Sie ist einer der Emotionen von Ri
 * Sie ist tollpatschig
 * Sie ist schnell müde
 * Sie ist negativ
+
+> Weinen hilft mir das Tempo zu drosseln und mich in die Probleme des Lebens hinein zu steigern. 
